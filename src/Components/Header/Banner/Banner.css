@@ -1,0 +1,22 @@
+.banner-things{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner-things input{
+    background-color: wheat;
+    border-radius: 50px 0px 0px 50px;
+    border: none;
+    padding: 5px;
+    width: 80%;
+    line-height: 35px;
+    text-indent: 10px;
+}
+
+.banner-things button{
+    border-radius: 0px 50px 50px 0px;
+    margin-bottom: 4px;
+    padding-bottom: 10px;
+    width: 17%;
+}

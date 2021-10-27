@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "food": "Healthy Meal Plan",
+        "description": "Amazing and delicious food in the town!",
+        "price": 23.99,
+        "category": "lunch",
+        "img": "https://i.ibb.co/qCt91Lr/lunch1.png"
+    },
+    {
+        "id": 2,
+        "food": "Fired Chicken Bento",
+        "description": "Amazing and delicious food in the town!",
+        "price": 9.99,
+        "category": "lunch",
+        "img": "https://i.ibb.co/YD64J8c/lunch2.png"
+    },
+    {
+        "id": 3,
+        "food": "Tarragon Rubbed Salmon",
+        "description": "Amazing and delicious food in the town!",
+        "price": 6.99,
+        "category": "lunch",
+        "img": "https://i.ibb.co/c1CwZJx/lunch3.png"
+    },
+    {
+        "id": 4,
+        "food": "Indian Lunch",
+        "description": "Amazing and delicious food in the town!",
+        "price": 8.99,
+        "category": "lunch",
+        "img": "https://i.ibb.co/m5sSVSr/lunch4.png"
+    },
+    {
+        "id": 5,
+        "food": "Beef Steak",
+        "description": "Amazing and delicious food in the town!",
+        "price": 15.99,
+        "category": "lunch",
+        "img": "https://i.ibb.co/w0SGKkm/lunch5.png"
+    },
+    {
+        "id": 6,
+        "food": "Salmon with Peppers and Honey",
+        "description": "Amazing and delicious food in the town!",
+        "price": 15.99,
+        "category": "lunch",
+        "img": "https://i.ibb.co/jvxqXWd/lunch6.png"
+    },
+    {
+        "id": 7,
+        "food": "Bagel and cream cheese",
+        "description": "Amazing and delicious food in the town!",
+        "price": 6.99,
+        "category": "breakfast",
+        "img": "https://i.ibb.co/L6Hsqf0/breakfast1.png"
+    },
+    {
+        "id": 8,
+        "food": "Breakfast sandwich",
+        "description": "Amazing and delicious food in the town!",
+        "price": 9.99,
+        "category": "breakfast",
+        "img": "https://i.ibb.co/fDRpv3C/breakfast2.png"
+    },
+    {
+        "id": 9,
+        "food": "Baked Chicken",
+        "description": "Amazing and delicious food in the town!",
+        "price": 10.99,
+        "category": "breakfast",
+        "img": "https://i.ibb.co/Rpxms7M/breakfast3.png"
+    },
+    {
+        "id": 10,
+        "food": "Eggs Benedict",
+        "description": "Amazing and delicious food in the town!",
+        "price": 8.99,
+        "category": "breakfast",
+        "img": "https://i.ibb.co/4t71BPm/breakfast4.png"
+    },
+    {
+        "id": 11,
+        "food": "Toast Croissant Fried egg",
+        "description": "Amazing and delicious food in the town!",
+        "price": 19.99,
+        "category": "breakfast",
+        "img": "https://i.ibb.co/GxnDh5L/breakfast5.png"
+    },
+    {
+        "id": 12,
+        "food": "Fried Egg Toast Brunch",
+        "description": "Amazing and delicious food in the town!",
+        "price": 3.99,
+        "category": "breakfast",
+        "img": "https://i.ibb.co/5xxLTHH/breakfast6.png"
+    },
+    {
+        "id": 13,
+        "food": "Salmon with Grapefruit and Lentil Salad",
+        "description": "Amazing and delicious food in the town!",
+        "price": 9.99,
+        "category": "dinner",
+        "img": "https://i.ibb.co/0fpDQZN/dinner1.png"
+    },
+    {
+        "id": 14,
+        "food": "Lemony Salmon Piccata",
+        "description": "Amazing and delicious food in the town!",
+        "price": 10.99,
+        "category": "dinner",
+        "img": "https://i.ibb.co/F8PwZth/dinner2.png"
+    },
+    {
+        "id": 15,
+        "food": "Pork Tenderloin With Quinoa Pilaf",
+        "description": "Amazing and delicious food in the town!",
+        "price": 12.99,
+        "category": "dinner",
+        "img": "https://i.ibb.co/6Y7bz82/dinner3.png"
+    },
+    {
+        "id": 16,
+        "food": "French Fires with cheese",
+        "description": "Amazing and delicious food in the town!",
+        "price": 8.99,
+        "category": "dinner",
+        "img": "https://i.ibb.co/wytPx4w/dinner4.png"
+    },
+    {
+        "id": 17,
+        "food": "Garlic Butter Baked Salmon",
+        "description": "Amazing and delicious food in the town!",
+        "price": 6.99,
+        "category": "dinner",
+        "img": "https://i.ibb.co/smQyRt8/dinner5.png"
+    },
+    {
+        "id": 18,
+        "food": "Baked Chicken",
+        "description": "Amazing and delicious food in the town!",
+        "price": 9.99,
+        "category": "dinner",
+        "img": "https://i.ibb.co/g3gWJcZ/dinner6.png"
+    }
+]

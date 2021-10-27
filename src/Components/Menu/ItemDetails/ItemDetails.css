@@ -1,0 +1,11 @@
+.minus-button{
+    color: white;
+    border-radius: 50px 0px 0px 50px; 
+    border: 1px solid wheat;
+}
+
+.plus-button{
+    color: white;
+    border-radius: 0px 50px 50px 0px; 
+    border: 1px solid wheat;
+}
